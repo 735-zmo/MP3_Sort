@@ -66,6 +66,9 @@
   <ItemGroup>
     <ClCompile Include="Sort.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Sortirovki.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
